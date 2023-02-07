@@ -1,2 +1,3 @@
 # Benchtop-NMR-Coffee-Survey
-60 MHz ('benchtop') NMR spectra of lipophilic extracts of 60 different ground roast coffees
+60 MHz ('benchtop') NMR spectra of lipophilic extracts of 60 different ground roast coffees. These were purchased as sealed packs of 'Arabica' ground roast coffee from retailers around the world. Full details of the sample labels are given in Supplementary Table 2 of Gunning et. al. "16-O-methylcafestol is present in ground roast Arabica coffees: Implications for authenticity testing" Food Chemistry, 2018 May 15;248:52-60. https://doi.org/10.1016/j.foodchem.2017.12.034
+The samples were prepared as described in the above reference, and the lipophilic extracts obtained were analysed using 'benchtop' or 'compact' NMR spectroscopy. The spectra provided are in the range 0.2 ~ 5.8 ppm on a chemical shift scale referenced to the glyceride peaks at ~4.28 ppm.
